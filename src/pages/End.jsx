@@ -8,7 +8,7 @@ export default function End() {
     <Layout>
       <div className="end__container">
         <h1 className="end__header">끝!</h1>
-        <Link to="/">
+        <Link to="/three-meet">
           <Button variant="contained">처음으로</Button>
         </Link>
       </div>

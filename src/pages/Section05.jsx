@@ -11,7 +11,7 @@ export default function Section05() {
         진짜 물고기로 만드셨다.
         
         나는 _______다.`}
-        link="/section06"
+        link="/three-meet/section06"
       />
     </Layout>
   );

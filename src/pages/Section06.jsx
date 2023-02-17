@@ -10,7 +10,7 @@ export default function Section06() {
         전도여행을 출발한다면,
         
         일주일동안 무엇을 하겠는가?`}
-        link="/end"
+        link="/three-meet/end"
       />
     </Layout>
   );

@@ -10,7 +10,7 @@ export default function Section02() {
         같이 따라오라 하셨을 때,
         
         당신의 선택은?`}
-        link="/section03"
+        link="/three-meet/section03"
       />
     </Layout>
   );

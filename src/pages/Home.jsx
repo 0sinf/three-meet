@@ -8,7 +8,7 @@ export default function Home() {
     <Layout>
       <div className="home">
         <h1 className="home__header">삼자대면</h1>
-        <Link to="/section01">
+        <Link to="/three-meet/section01">
           <Button variant="contained">시작하기</Button>
         </Link>
       </div>

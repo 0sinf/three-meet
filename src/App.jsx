@@ -12,14 +12,14 @@ import Section06 from "./pages/Section06";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/section01" element={<Section01 />} />
-      <Route path="/section02" element={<Section02 />} />
-      <Route path="/section03" element={<Section03 />} />
-      <Route path="/section04" element={<Section04 />} />
-      <Route path="/section05" element={<Section05 />} />
-      <Route path="/section06" element={<Section06 />} />
-      <Route path="/end" element={<End />} />
+      <Route path="/three-meet" element={<Home />} />
+      <Route path="/three-meet/section01" element={<Section01 />} />
+      <Route path="/three-meet/section02" element={<Section02 />} />
+      <Route path="/three-meet/section03" element={<Section03 />} />
+      <Route path="/three-meet/section04" element={<Section04 />} />
+      <Route path="/three-meet/section05" element={<Section05 />} />
+      <Route path="/three-meet/section06" element={<Section06 />} />
+      <Route path="/three-meet/end" element={<End />} />
     </Routes>
   );
 }

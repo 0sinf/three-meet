@@ -7,7 +7,7 @@ export default function Section03() {
       <Card
         header="세번째 질문"
         content={`만약에 10억 생기면?`}
-        link="/section04"
+        link="/three-meet/section04"
       />
     </Layout>
   );
