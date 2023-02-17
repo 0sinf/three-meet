@@ -1,0 +1,14 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home__header {
+  color: rgba(0, 0, 0, 0.65);
+  margin-bottom: 16px;
+}
+
+.home__button {
+  font-size: 24px;
+}
